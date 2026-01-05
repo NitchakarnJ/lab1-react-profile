@@ -134,7 +134,7 @@ function App() {
           textAlign: "center",
         }}
       >
-        <h1 style={{ marginBottom: "10px" }}>My First React App</h1>
+        <h1 style={{ marginBottom: "10px" }}>Profile</h1>
 
         <button
           onClick={() => setDarkMode(!darkMode)}
